@@ -71,6 +71,12 @@
   --shadow-visible: var(--media-shadow-visible);
 }
 
+/* chatel custom base */
+
+.content-for-layout{
+  overflow-x: hidden;
+}
+
 /* base */
 
 .no-js:not(html) {
