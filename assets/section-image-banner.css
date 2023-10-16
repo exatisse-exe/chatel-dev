@@ -17,6 +17,11 @@
   position: relative;
 }
 
+.banner .banner__content .banner__button{
+  width: 100%;
+  max-width: 340px;
+}
+
 .banner .banner__media{
   width: 80%;
   max-height: 800px;
@@ -42,11 +47,6 @@
   .banner .banner__content{
     align-items: center;
     text-align: center;
-  }
-
-  .banner .banner__content .banner__button{
-    width: 100%;
-    max-width: 340px;
   }
 
   .banner .banner__media{
